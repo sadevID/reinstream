@@ -22,8 +22,8 @@ echo "🎬 Installing FFmpeg dan Git..."
 sudo apt install ffmpeg git -y
 
 echo "📥 Clone repository..."
-git clone https://github.com/bangtutorial/streamflow
-cd streamflow
+git clone https://github.com/sadevID/reinstream
+cd reinstream
 
 echo "⚙️ Installing dependencies..."
 npm install
