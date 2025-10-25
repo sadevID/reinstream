@@ -3,7 +3,7 @@
 set -e
 
 echo "================================"
-echo "   StreamFlow Quick Installer  "
+echo "   Reinstream Quick Install  "
 echo "================================"
 echo
 
@@ -41,7 +41,7 @@ echo "🚀 Installing PM2..."
 sudo npm install -g pm2
 
 echo "▶️ Starting StreamFlow..."
-pm2 start app.js --name streamflow
+pm2 start app.js --name reinstream
 pm2 save
 
 echo
