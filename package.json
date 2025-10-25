@@ -1,7 +1,7 @@
 {
-  "name": "streamflow",
-  "version": "2.1.0",
-  "description": "Cloud streaming solution with FFmpeg",
+  "name": "reisntream",
+  "version": "1.0",
+  "description": "Cloud server restreaming to easy",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -43,3 +43,4 @@
     "node": ">=18.19.0 <21.0.0"
   }
 }
+
