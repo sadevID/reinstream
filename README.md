@@ -1,8 +1,8 @@
 ![logo](https://github.com/user-attachments/assets/50231124-d546-43cb-9cf4-7a06a1dad5bd)
 
-# StreamFlow v2.1: Fresh From The Oven 🔥
+# StreamFlow v1: Fresh From The Oven 🔥
 
-StreamFlow adalah aplikasi live streaming yang memungkinkan kamu melakukan live streaming ke berbagai platform seperti YouTube, Facebook, dan platform lainnya menggunakan protokol RTMP. Aplikasi ini dapat berjalan di VPS (Virtual Private Server) dan mendukung streaming ke banyak platform secara bersamaan.
+Reinstream adalah aplikasi live restreaming yang memungkinkan kamu melakukan live streaming ke berbagai platform seperti YouTube, Facebook, dan platform lainnya menggunakan protokol RTMP. Aplikasi ini dapat berjalan di VPS (Virtual Private Server) dan mendukung streaming ke banyak platform secara bersamaan.
 
 ![Untitled-2](https://github.com/user-attachments/assets/3d7bb367-a1b2-43a5-839b-b6aa8dd5de90)
 
@@ -299,5 +299,6 @@ pm2 restart streamflow
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/bangtutorial/streamflow/blob/main/LICENSE)
 
 ---
-© 2025 - [Bang Tutorial](https://youtube.com/bangtutorial)
+© 2025 - [SaDevlabs](https://github.com/sadevID) | [Bang Tutorial](https://youtube.com/bangtutorial)
+
 
